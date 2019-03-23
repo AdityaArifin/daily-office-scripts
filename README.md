@@ -1,2 +1,2 @@
 # daily-office-scripts
-Scripts I used on daily activities.
+Scripts I used for daily activities.
